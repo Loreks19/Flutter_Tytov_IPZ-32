@@ -18,6 +18,24 @@
       <excludeFolder url="file://$MODULE_DIR$/lab06/.dart_tool" />
       <excludeFolder url="file://$MODULE_DIR$/lab06/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/lab06/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab007/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab007/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab007/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab008/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab008/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab008/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab011/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab011/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab011/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab012/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab012/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab012/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab013/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab013/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab013/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lab10/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/lab10/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/lab10/build" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
